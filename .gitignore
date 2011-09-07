@@ -1,0 +1,3 @@
+.bundledb/*.sqlite3
+*log/*.log*.logtmp/
+**/*tmp/*Gemfile.lockdoc/apidoc/app*.swp*~.DS_Store
